@@ -20,6 +20,7 @@
   "homepage": "https://github.com/chrisrosenlind/atv-bot#readme",
   "dependencies": {
     "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
     "typescript": "^5.9.3"
   }
 }
