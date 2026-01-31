@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/chrisrosenlind/atv-bot#readme",
   "dependencies": {
-    "discord.js": "^14.25.1"
+    "discord.js": "^14.25.1",
+    "typescript": "^5.9.3"
   }
 }
